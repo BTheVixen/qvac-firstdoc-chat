@@ -1,0 +1,2 @@
+--find-links https://github.com
+tetherto-qvac-sdk==0.22.0
